@@ -1,0 +1,3 @@
+module Keno
+  VERSION = "0.0.1"
+end
