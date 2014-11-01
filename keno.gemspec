@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Keno::VERSION
   spec.authors       = ["Dave Powers"]
   spec.email         = ["djpowers89@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A Ruby gem to generate Keno winning numbers.}
+  spec.description   = %q{A Ruby gem to generate Keno winning numbers.}
+  spec.homepage      = "https://github.com/djpowers/keno"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
