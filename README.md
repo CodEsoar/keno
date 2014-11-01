@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Keno::WinningNumbers.new.generate # => [09, 13, 15, 19, 20, 22, 23, 32, 36, 38, 46, 47, 49, 61, 62, 71, 75, 77, 78, 80]
+Keno::WinningNumbers.new.generate # => [9, 13, 15, 19, 20, 22, 23, 32, 36, 38, 46, 47, 49, 61, 62, 71, 75, 77, 78, 80]
 ```
 
 ## Contributing
