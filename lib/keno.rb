@@ -1,4 +1,5 @@
 require "keno/version"
+require "keno/winning_numbers"
 
 begin
   require "pry"
